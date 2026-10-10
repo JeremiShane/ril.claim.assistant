@@ -13,16 +13,19 @@ This file serves as a system context anchor for AI agents assisting with the dev
 - `/ril.claim.assistant/` (Root Directory)
   - `README.md` (Project overview and landing summary)
   - `Workspace_Context.md` (This infrastructure context configuration file)
-  - `.gitignore` (Active system filter ignoring operating system files, Python cache, and `.ipynb_checkpoints/`)
+  - `.gitignore` (Active system filter ignoring system junk and checkpoints)
   - `claim_assistant_main.ipynb` (Primary development and execution notebook)
+  - `/receipts/` (Target subfolder for incoming business travel receipts)
 
 ## 🎯 Active Project Objective & Scope
 - **Project Name:** ril.claim.assistant
-- **Domain:** AI-Powered Claim Reimbursement Assistant
-- **AI Core:** Leveraging the **Google AI Developer Free Tier** via the Gemini API.
-- **Workflow Architecture:** Multi-project scalability. The user intends to host multiple independent development workspaces under the master `/content/drive/MyDrive/ril_learning/` directory in the future.
+- **Domain:** AI-Powered Business Travel Expense Claim Assistant
+- **Primary Use Cases:** Auditing, parsing, and extracting data from:
+  1. Restaurant receipts (meals, itemization, tips)
+  2. Hotel receipts/folios (room rates, taxes, incidentals)
+  3. Ride-sharing & transit invoices (Uber, Lyft, taxi cab receipts)
+- **AI Core:** Leveraging the **Google AI Developer Free Tier** via the `gemini-3.8-flash` model.
 
 ## 🔒 Security & Git Rules for AI Agents
-1. **Zero Credential Leaking:** Never request or append plain-text Personal Access Tokens (`ghp_...`) or explicit Gemini API Keys (`AIzaSy...`) inside saving notebook cells or script assets.
-2. **Environment Variable/Secrets Handling:** All sensitive access keys must be pulled dynamically from volatile memory during cell execution or sourced via Google Colab's native hidden Secrets/Environment panel.
-3. **Clean Workspace Pushes:** Always utilize the automated `.gitignore` structures to safeguard the public repository history from runtime junk.
+1. **Zero Credential Leaking:** Never write down plain-text personal tokens or explicit Gemini API Keys in code cells.
+2. **Environment Variable/Secrets Handling:** Sourced via Google Colab's native hidden Secrets panel (`GEMINI_API_KEY`).
