@@ -1,0 +1,27 @@
+===================================================
+THE CHOPHOUSE & GRILLE
+Denver, CO | Table 14 | Server: Marcus
+===================================================
+Date: October 6, 2026 | Time: 7:14 PM
+Receipt #984215
+
+ITEMS ORDERED:
+---------------------------------------------------
+1  Ribeye Steak (14oz)              $48.00
+1  Asparagus Side                   $9.50
+1  Molten Lava Cake                 $12.00
+2  Craft IPA Beer ($8.50 each)      $17.00
+1  Sparkling Water                  $4.50
+
+SUBTOTAL:                           $91.00
+State Sales Tax (8.81%):             $8.02
+---------------------------------------------------
+TOTAL BEFORE TIP:                   $99.02
+
+TIP OPTION SELECTED (20%):          $18.20
+
+TOTAL PAID:                        $117.22
+Payment: Mastercard ending in 9876
+===================================================
+Thank you for dining with us!
+===================================================
