@@ -1,0 +1,27 @@
+===================================================
+UBER TECHNOLOGIES INC. INVOICE RECEIPT
+===================================================
+Date: October 8, 2026
+Ride Type: UberX
+Account: JeremiShane (Corporate Profile)
+
+TRIP DETAILS:
+-------------
+Pickup: 12:45 PM | Denver International Airport (DEN)
+Dropoff: 1:20 PM | Downtown Convention Center Hotel, Denver, CO
+
+FARE BREAKDOWN:
+---------------
+Trip Fare:                  $38.50
+Surge Pricing (1.2x):        $7.70
+Airport Access Fee:          $5.00
+Tolls & Surcharges:          $3.20
+Subtotal:                   $54.40
+Tip (Optional):              $8.00
+
+TOTAL CHARGED:              $62.40
+Payment Method:             Visa ending in 4321
+
+===================================================
+Thank you for riding with Uber!
+===================================================
