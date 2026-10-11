@@ -1,25 +1,16 @@
-# Google Colab & Jupyter Notebook background checkpoints
+# Colab & Jupyter checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 .virtual_documents/
 
-# Mac and Windows background operating system files
+# OS junk
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
-# Python background compilation cache folders
+# Python cache
 __pycache__/
 *.py[cod]
-*$py.class
-.pytest_cache/
 
-# Local workspace environment settings
+# Local envs
 .env
 .venv
-env/
-venv/

@@ -1,0 +1,10 @@
+# System Import Compilation: CLAIM-2026-001
+
+Total Transactions Compiled: 3
+**Gross Batch Total:** **\$999.54**
+
+| ClaimID | VendorName | TransactionTotal | TaxPaid | SourceFileName | ItemSummary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CLAIM-2026-001 | UBER TECHNOLOGIES INC. | \$62.40 | \$3.20 | uber_ride_01.txt | Airport transfer fare (UberX DEN to Hotel) including tip |
+| CLAIM-2026-001 | THE GRAND DENVER RESORT | \$819.92 | \$87.42 | hotel_stay_01.txt | 3-night lodging, taxes, valet parking, and room service |
+| CLAIM-2026-001 | THE CHOPHOUSE & GRILLE | \$117.22 | \$8.02 | restaurant_meal_01.txt | Business dinner (Ribeye, Asparagus, Craft Beer, Water + Tip) |
